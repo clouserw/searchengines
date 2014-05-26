@@ -1,0 +1,8 @@
+<OpenSearchDescription>
+    <ShortName>Live Search</ShortName>
+    <Description>Use Live Search to search the web.</Description>
+    <InputEncoding>UTF-8</InputEncoding>
+    <Image width="16" height="16">data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH1wMHBSsb40YyMAAAAwBJREFUOMvNk8tPVGcAxc/33e9y750Z5npneA0MMBgVEIWANiQ0WPtQYsJCYlypiSsSE90YFsaNC2NMTGN0QYxLF7WPNGlj23RT0igYklZAI8KIwCAP5wXzYu7cuW8XhqZJ/QP6W52cxW91DsG/mO8MDOcy2hUquS3MS0F46Ios/rba23LhsxtTKXwEshPWjuxiyZT5kpOctspQBcRdFJzgolzkcDfYcanulMfNp8xvbp4ZywHA0csR0SN5e9iOwHXddkGhe+RGHmItB76OgOgONkuhZ8G2pmbKPx8xmDNy/l7X7MamgcV8eZ9i8/I/AouSLzxVlHkiFEwBqOiimBRR2N86Wbfbf1B1qxBUshGDqhFOJ5AoD7LgPGIAkDjqJzZnD3kCFhyLWdYW5UyIxGYEdkNnjAhvz5SLXvhFCke2kC3o0FwBqZj2BwMADo44w1dFZ4Xev7j63vheaPze1Hh/JUt3eFp2K7Hl6cChcBjxwjp4IkD26cjmKsrLq/knDAAG227vm/U3NXiC4aEDQdlbrQhG56eX/j7XbJ1Ord3/XLddzKfTcBwDed1GznLh5IQZiXqjDABWazqGVdE/WCOLCPmARh+8E282j/fxsbUTi3cO99T0jT6Xu5NxtVRNsu8Ebj3jsJj+w+/Lkzo7dusxP5W1+gENBbMC2bINr2rC0G2jW1pKwFPVVWslIwNrD5M2oQVNoprQUmq8tnLwOwBgjJG2fKHcDh/Flm5jpWShpBnoCstz/syf7agQgOYeGdY7mVNfwWcnEF+pS0bT0iIAUM0kJ2zDZjABbGuY14DXJYKQufqYZqYPwUsA4w1QXACMApCw8CJeM/7Tj99uAADbiK/XCnNjDxUnM97UENLU+s7DS8FPTvoLk2kE8rWQCJBPAZoGbBtAiWJigT3d2Q8rTnx/VX/2s54AkPjQPRi6+PX1kDI+4Aa2RZJXgTIA1QGKOlSzWhub2Xr5ny98jNGRL78KV6bP1oubrabmOtGksPjrK/bL06j6KJmKG/hf8B5EXk19WZ58QwAAAABJRU5ErkJggg==</Image>
+    <ms:SearchForm>http://www.live.com</ms:SearchForm>
+    <Url type="text/html" method="GET" template="http://search.live.com/results.aspx?q={searchTerms}&sourceid=Mozilla-search&form=CHROME"/>
+</OpenSearchDescription>
